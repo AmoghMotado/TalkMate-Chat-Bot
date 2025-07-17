@@ -17,5 +17,4 @@
 - **AI Backend:** Gemini Pro API via `@google/generative-ai` SDK
 - **API Key Management:** `.env` environment file
 
-## 📁 Folder Structure
 
